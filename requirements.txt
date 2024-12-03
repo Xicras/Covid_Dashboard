@@ -1,0 +1,7 @@
+matplotlib
+pandas
+voila
+numpy
+ipywidgets
+sklearn.linear_model
+IPython.display

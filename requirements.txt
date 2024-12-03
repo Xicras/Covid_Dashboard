@@ -3,4 +3,5 @@ pandas
 voila
 numpy
 ipywidgets
-
+IPython
+sklearn
